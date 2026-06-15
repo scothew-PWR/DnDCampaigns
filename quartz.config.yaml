@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: DnDCampaigns
+  baseUrl: scothew-pwr.github.io/DnDCampaigns
   ignorePatterns:
     - private
     - templates

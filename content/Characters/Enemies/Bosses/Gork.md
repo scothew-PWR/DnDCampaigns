@@ -1,3 +1,0 @@
-# Gork
-
-Extreme threat. Hostile.

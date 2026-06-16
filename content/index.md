@@ -20,8 +20,7 @@ This is the master archive for all active campaigns, lore, characters, session l
 
 - [[Campaigns/Bell Rod Vault/Notes/Campaign Overview|Bell Rod Vault]]
     
-- [[Campaigns/Bell Cup Vault|Bell Cup Vault]]
-    
+- [[Campaigns/Bell Cup Vault/Notes/Campaign Overview|Bell Cup Vault]]
 
 ---
 ## Current Campaign Status
@@ -68,18 +67,16 @@ Threat level: **Extreme**
 - [[Characters/NPCs/Dilbert|Dilbert]]
     
 - [[Characters/NPCs/Aradon the Lost|Aradon the Lost]]
-    
 
----
-
-## Major Threats
-
-- [[Characters/Enemies/Bosses/Gork|Gork]]
+ - [[Gork|Gork]]
     
 - [[Characters/Enemies/Bosses/Fallen Celestial|Fallen Celestial]]
     
 - [[Characters/Enemies/Bosses/Celestial Titan|Celestial Titan]]
-    
+
+---
+
+## Major Threats
 
 ---
 

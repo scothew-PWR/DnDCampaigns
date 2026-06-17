@@ -105,6 +105,7 @@ Possible real meaning:
 - Trap armed
 - Curse applied
 - Initiative soon
+- Or it actually did nothing
 
 ---
 
@@ -189,7 +190,7 @@ It is extremely concerning.
 
 ---
 
-> “Huh.”
+> “Huh.” or "Hmm."
 
 This is bad.
 

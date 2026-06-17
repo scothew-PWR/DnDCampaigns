@@ -4,141 +4,292 @@ tags:
 
 - player-character
     
+- dragonborn
+    
 - fighter
     
 - ranger
     
-- dragonborn
-    
-- coin-holder
+- coin-bearer
     
 
 ---
 ## Overview
 
-Devon is a Bronze Dragonborn martial combatant who blends frontline capability with surprising utility and necromantic-adjacent item usage.
+Devon is one of the party’s most disciplined and tactically reliable combatants, combining martial skill, battlefield awareness, and unusual divine-adjacent power.
 
-He fights with discipline and tactical awareness, often contributing in subtle but critical ways.
+As a Dragonborn with training in both martial and ranger disciplines, Devon brings strong versatility to the group. He is capable of functioning as both frontline support and precision striker, adapting to changing battlefield needs with steady efficiency.
+
+Unlike some party members who thrive on chaos or aggression, Devon often feels grounded and controlled.
+
+That composure makes him dependable.
+
+What makes Devon especially unique, however, is not just his martial skill.
+
+It is the celestial coin embedded beneath his skin.
+
+That coin grants access to power that appears both extraordinary and dangerous.
 
 ## Appearance
 
-- Bronze Dragonborn
+Devon carries the presence of a seasoned warrior.
+
+Known traits include:
+
+- Dragonborn physiology
     
-- Martial gear
+- physically imposing build
     
-- Scimitar user
+- disciplined posture
     
-- Strong physical presence
+- combat-ready presence
     
+- steady confidence
+    
+
+He looks like someone trained for conflict.
+
+There is little wasted motion in how he carries himself.
+
+He gives the impression of competence and control.
 
 ## Personality
 
-Core traits:
+Devon comes across as disciplined, practical, and dependable.
 
-- steady
-    
+Core traits include:
+
 - tactical
     
-- dependable
+- composed
     
-- disciplined
+- capable
+    
+- reliable
+    
+- adaptable
+    
+- loyal
     
 
-Devon often serves as a stabilizing combat presence.
+He does not project chaos or recklessness.
+
+Instead, Devon feels like someone who prefers understanding the battlefield before committing fully.
+
+He appears to value:
+
+- teamwork
+    
+- positioning
+    
+- timing
+    
+- efficiency
+    
+
+That mindset makes him an excellent stabilizing force within the party.
+
+Where others may act emotionally, Devon often helps anchor the group.
 
 ## Known History
 
-Devon is linked through coin resonance with:
+Devon has become a key member of the party’s combat effectiveness through consistent performance, strong teamwork, and adaptability.
 
-- [[Mordikahn]]
+His combination of martial combat and unusual magical access makes him difficult to classify into a single role.
+
+He is not purely:
+
+- fighter
     
-- [[Fnipper]]
+- ranger
+    
+- caster
     
 
-This telepathic connection enables advanced coordination in battle.
+Instead, he occupies a hybrid space.
 
-He is also the wielder of the **Bangles of the Undead**.
+That flexibility gives him considerable tactical value.
 
 ## Combat Role
 
-Primary role:
+Devon functions as a highly versatile combatant.
 
-- frontline combat
+His core strengths include:
+
+- martial pressure
     
-- martial damage
+- tactical positioning
     
-- tactical support
+- ranged support
+    
+- melee support
+    
+- adaptability
     
 
-Class:
+As a **Fighter / Ranger multiclass**, Devon brings strong action economy and battlefield awareness.
 
-- Fighter 8
+He can shift roles depending on party needs.
+
+This makes him highly valuable in unpredictable encounters.
+
+## The Coin
+
+One of the most significant aspects of Devon’s character is the celestial coin embedded beneath his skin.
+
+Unlike the more external coin bonds seen with [[Mordikahn]] and [[Fnipper]], Devon’s coin appears physically integrated into his body.
+
+This suggests a more invasive and intimate bond.
+
+The coin is not simply carried.
+
+It is part of him.
+
+That fact alone makes Devon’s connection unique among known coin bearers.
+
+## Divine Channeling
+
+Devon’s coin allows him to channel **Paladin spells**.
+
+This is remarkable because it grants access to divine magic beyond his normal class structure.
+
+The coin effectively acts as a conduit for sacred power.
+
+Through it, Devon can wield abilities associated with divine warriors and holy magic.
+
+This expands his capabilities dramatically.
+
+He is no longer limited to purely martial combat.
+
+He can access divine intervention through the coin.
+
+## The Cost
+
+The most unsettling aspect of Devon’s coin is that its power appears to come with a cost.
+
+Unlike conventional spellcasting, using the coin does not seem free.
+
+Each Paladin spell cast through the coin requires payment.
+
+The exact cost remains unknown.
+
+Possible costs may include:
+
+- life force
     
-- Ranger 1
+- vitality
+    
+- physical pain
+    
+- soul strain
+    
+- magical backlash
     
 
-Equipment:
+This creates a dangerous tension.
 
-- Scimitar
-    
-- Bangles of the Undead
-    
+Every spell raises the same question:
+
+**What is Devon sacrificing to use this power?**
+
+At present, that answer remains unclear.
+
+That uncertainty makes the coin both powerful and concerning.
 
 ## Relationships
 
-### Coin Network
+### Party
 
-Devon participates in one of the campaign’s most powerful tactical assets:
+Devon serves as one of the party’s most reliable combat assets.
 
-Coin-linked telepathy.
+His adaptability allows him to support multiple allies effectively.
 
-This allows:
+He works particularly well in coordinated tactical situations.
 
-- communication
-    
-- targeting
-    
-- coordination
-    
-- combo execution
-    
+His steadiness complements more chaotic teammates.
 
-## Memorable Moments
+---
 
-### Felix Deletion Combo
+### Coin Bearers
 
-Devon contributed to the legendary alpha strike against [[Felix the Flayer]].
+Devon shares an important connection with other coin-linked party members.
 
-Using coin-linked coordination with:
+Known coin-linked allies include:
 
 - [[Mordikahn]]
     
 - [[Fnipper]]
     
 
-the party executed a devastating combo that dealt:
+This connection appears to allow unique synergy.
 
-**262 damage in one round**
+## Mental Link
+
+One of the most powerful observed coin effects involving Devon is the mental link shared with other coin bearers.
+
+This link allows real-time communication and coordination.
+
+In combat, this creates enormous advantages.
+
+Benefits include:
+
+- silent communication
+    
+- instant tactical adjustments
+    
+- precise coordination
+    
+- synchronized burst attacks
+    
+
+This makes Devon especially dangerous in coordinated team plays.
+
+## Memorable Moments
+
+### Coin Coordination
+
+Devon played a major role in some of the party’s most devastating coordinated attacks through coin-linked communication.
+
+The mental connection between coin bearers repeatedly improved party effectiveness.
+
+---
+
+### Felix Deletion
+
+One of Devon’s most legendary contributions came during the Four Champions battle against [[Felix the Flayer]].
+
+Through coordination between:
+
+- [[Mordikahn]]
+    
+- [[Fnipper]]
+    
+- Devon
+    
+
+the party executed one of the most devastating burst rounds in the campaign.
+
+After positioning, smites, and critical-hit synergy, the attack dealt:
+
+# 262 damage in one round
+
+This exceeded Felix’s HP by roughly double.
 
 Felix was effectively erased.
 
-### Roland Resurrection
-
-After defeating [[Roland the Rejected]], Devon activated the **Bangles of the Undead**.
-
-This temporarily resurrected Roland under party control.
-
-That transformed a defeated boss into a temporary ally.
-
-It remains one of the wildest tactical plays in the campaign.
+Coin synergy played a major role in enabling this moment.
 
 ## Open Questions
 
-- What is the true power ceiling of the Bangles of the Undead?
+- What entity is tied to Devon’s coin?
     
-- How important is Devon to the coin network?
+- Why is his coin embedded beneath his skin?
     
-- What additional hidden capabilities does he possess?
+- What is the true cost of using its power?
+    
+- Was the coin given, earned, or forced upon him?
+    
+- What happens if he pushes the coin too far?
     
 
 ## Images

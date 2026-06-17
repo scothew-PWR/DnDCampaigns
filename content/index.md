@@ -84,9 +84,8 @@ Threat level: **Extreme**
 
 - [[Shared Lore/Celestial Coins|Celestial Coins]]
     
-- [[Shared Lore/Barrier Shield|Barrier Shield]]
+- [[Barrier Shield|Barrier Shield]]
     
-- [[Shared Lore/Dungeon Mechanics|Dungeon Mechanics]]
     
 
 ---
@@ -96,13 +95,11 @@ Threat level: **Extreme**
 ### Bell Rod Vault
 
 - [[Campaigns/Bell Rod Vault/Sessions|Sessions]]
-    
 - [[Campaigns/Bell Rod Vault/Quests|Quests]]
-    
 - [[Campaigns/Bell Rod Vault/Mysteries/Open Questions|Open Questions]]
-    
 - [[Campaigns/Bell Rod Vault/Mysteries/Theories|Theories]]
-    
+- [[Campaigns/Bell Rod Vault/Notes/Dungeon Mechanics|Dungeon Mechanics]]
+
 
 ### Bell Cup Vault
 

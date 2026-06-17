@@ -14,6 +14,8 @@ tags:
 ---
 ## Overview
 
+She only has a title, as she is a tool. An example that celestials do not have independence. She said she is called Wrath and Judgment.
+
 The Celestial Titan is an immense divine being whose presence left a powerful impression on the party—especially [[Zava]].
 
 As the name implies, this entity exists on a scale far beyond ordinary mortals, and likely above many other celestial beings as well.

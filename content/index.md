@@ -45,28 +45,28 @@ Threat level: **Extreme**
 > “Some mysteries are solved. Most only get deeper.”
 ## Player Characters
 
-- [[Characters/Player Characters/Mordikahn|Mordikahn]]
+- [[Mordikahn|Mordikahn]]
     
-- [[Characters/Player Characters/Zanaris|Zanaris]]
+- [[Zanaris|Zanaris]]
     
-- [[Characters/Player Characters/Zava|Zava]]
+- [[Zava|Zava]]
     
-- [[Characters/Player Characters/Fnipper|Fnipper]]
+- [[Fnipper|Fnipper]]
     
-- [[Characters/Player Characters/Ephram|Ephram]]
+- [[Ephram|Ephram]]
     
-- [[Characters/Player Characters/Devon|Devon]]
+- [[Devon|Devon]]
     
 
 ---
 
 ## Important NPCs
 
-- [[Characters/NPCs/Thaddeus|Thaddeus]]
+- [[Thaddeus|Thaddeus]]
     
-- [[Characters/NPCs/Dilbert|Dilbert]]
+- [[Dilbert|Dilbert]]
     
-- [[Characters/NPCs/Aradon the Lost|Aradon the Lost]]
+- [[Aradon the Lost|Aradon the Lost]]
 
  - [[Gork|Gork]]
     
